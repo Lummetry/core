@@ -1,7 +1,7 @@
 
 # Naeural Edge Protocol Core Modules
 
-Welcome to the Naeural Edge Protocol Core Modules repository. These modules form the backbone of the Naeural Edge Protocol framework a decentralized job execution meta os researched under two public financing grants, framework enabling the creation of end-to-end AI pipelines for edge computing. This README provides an overview of the core functionality, components, and how to get started with the Naeural Edge Protocol.
+Welcome to the Naeural Edge Protocol Core Modules repository. These modules form the backbone of the Naeural Edge Protocol framework, a decentralized job execution meta-OS researched under two public financing grants, enabling the creation of end-to-end AI pipelines for edge computing. This README provides an overview of the core functionality, components, and how to get started with the Naeural Edge Protocol.
 
 ---
 
