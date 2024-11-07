@@ -3,6 +3,8 @@
 
 Welcome to the Naeural Edge Protocol Core Modules repository. These modules form the backbone of the Naeural Edge Protocol framework, a decentralized job execution meta-OS researched under two public financing grants, enabling the creation of end-to-end AI pipelines for edge computing. This README provides an overview of the core functionality, components, and how to get started with the Naeural Edge Protocol.
 
+> Note: this repository does not contain and it is not supposed to provide any kind of CI/CD pipeline. This repository is a development dissemination environment for the meta-OS base framework and it is not intended to be used in production environments.
+
 ---
 
 ## SOLIS and ReDeN projects disclaimer
